@@ -1,0 +1,2 @@
+# RFM
+Recency, Frequency, Monetery
